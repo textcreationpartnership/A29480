@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief representation of the Protestant cause in Germany in what case it hath been, since the Peace of Munster, and how it now stands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29480</idno>
+            <idno type="STC">Wing B4642</idno>
+            <idno type="STC">ESTC R10944</idno>
+            <idno type="EEBO-CITATION">11683349</idno>
+            <idno type="OCLC">ocm 11683349</idno>
+            <idno type="VID">48131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 16:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief representation of the Protestant cause in Germany in what case it hath been, since the Peace of Munster, and how it now stands.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Germany.</term>
+               <term>Westphalia, Peace of, 1648.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48131:1" rendition="simple:additions"/>
+            <p>A Brief Repreſentation OF THE PROTESTANT CAUSE IN GERMANY. In what caſe it hath been, ſince the Peace of MUNSTER; and how it now ſtands.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48131:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:48131:2" rendition="simple:additions"/>
+            <head>A BRIEF REPRESENTATION OF THE Proteſtant Cauſe in <hi>Germany.</hi>
+            </head>
+            <head type="sub">In what caſe it hath been, ſince the Peace of MUNSTER; and how it now ſtands.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Juſtice of the laſt civil warrs in <hi>Germany,</hi> which were compoſed at the Peace concluded in <hi>Munſter</hi> and <hi>Oſnabrugge</hi> in the year 1648: was grounded upon this. That the Proteſtants were neceſſitated to enter into a league or mutual union together, for the maintaining of their fights and priviledges in the Empire, againſt the infractions thereof, and manifold diſturbances of their profeſſion, which contrary to former agreements at Imperi<g ref="char:EOLhyphen"/>al <hi>Dyets</hi> did befall unto them in many places by the Popiſh and Jeſuices practices, whereof they could obtain no redreſs by any peaceable Treaties. Therefore finding that there was a deſign for<g ref="char:EOLhyphen"/>med in the <hi>Conclave,</hi> and by the houſe of <hi>Auſtria,</hi> to be put in execution, tending by little and little to wear out and deprive them of their liberties; they formed an union among themſelvs, to ſtand upon the defence of their rights, and to oppoſe the pow<g ref="char:EOLhyphen"/>er of the houſe of <hi>Auſtria,</hi> by whoſe means, both in <hi>Germany</hi> and in <hi>Bohemia,</hi> the Jeſuites did drive the deſign of rooting out Pro<g ref="char:EOLhyphen"/>teſtants. The head of this union (who by his place was bound to appear in it) was the <hi>Elector Palatine:</hi> but he being a ſoft man, of no experience in war, and beſet in his Counſels and en<g ref="char:EOLhyphen"/>terpriſes with ſuch as did betray him, the cauſe was ſoon over<g ref="char:EOLhyphen"/>thrown;
+<pb n="2" facs="tcp:48131:3"/>and by his overthrow, the intended perſecution againſt Proteſtants to root them out, what by power, and what by poli<g ref="char:EOLhyphen"/>cy, was openly carried on by the houſe of <hi>Auſtria;</hi> which mo<g ref="char:EOLhyphen"/>ved the King of <hi>Denmark</hi> Chriſtian the IV. and after him the King of <hi>Sweden,</hi> to come upon the Stage: the <hi>Dane</hi> was ſoon overthrown, but God gave ſuch ſucceſs unto the <hi>Swedes,</hi> to the <hi>Landgrave</hi> of <hi>Heſſen</hi> their aſſociate, and to the <hi>French;</hi> (who joined with them to ballance the power of <hi>Auſtria,</hi> after the Elector of <hi>Saxony</hi> had made his peace at <hi>Prague</hi> with the Empe<g ref="char:EOLhyphen"/>rour, and deſerted the Proteſtant intereſt): that from the death of King <hi>Guſtavus,</hi> they continued the war with various ſucceſſes till the year 1648 at which time the <hi>Swediſh</hi> being maſters in <hi>Bohemia,</hi> and the Emperour brought ſo low, that he ſaw little hopes to recover his ſtrength without a Peace, he yielded to the conditions which the Proteſtants and the French ſtood upon. The Swediſh ſtood upon their ſatisfaction and to keep a foot in the Empire, to be able upon all occaſions to ſecure or help the Proteſtant partie; And the Proteſtant Princes they ſtood upon the ſetling of all things and of themſelves in their former rights and poſſeſſions, as before the war, and chiefly upon this point the reformed party and the <hi>Landgrave</hi> of <hi>Heſſen,</hi> who headed them ſtood, that thence forward the reformed Proteſtants (<hi>alias</hi> called Calviniſts) ſhould have equall freedom and liberty of conſcience, for the exerciſe of their profeſſion in the Empire, with the Papiſts and Lutherans. This condition being obtained, and a way determined to give the agrieved parties in point of dammage further ſatisfaction, Armies were diſmiſſed, a new convention of States was held at <hi>Nurenberg,</hi> to ſettle the remaining matters within the Empire, which at <hi>Munſter</hi> and <hi>Oſnabrugge</hi> could not well be handled, by reaſon of the Treatie with forraign States, and afterward a <hi>Dyet</hi> was called at <hi>Ratisbon,</hi> to confirm all what formerly had been treated on and concluded, and to put the re<g ref="char:EOLhyphen"/>mainder of grievances in a way to be rectified: To which effect at the diſſolution or rather adjournment of the imperiall <hi>Dyet</hi> at <hi>Ratisbon,</hi> a Committee of Deputies from all the States of the Em<g ref="char:EOLhyphen"/>pire, of equall number of both parties, (that is, ſo many of the Proteſtants as of the Popiſh party) were named to meet at <hi>Franckford,</hi> and prepare (by way of diſquiry of rights) the
+<pb n="3" facs="tcp:48131:3"/>matters then remaining undecided, that at the next Seſſion of the <hi>Dyet</hi> there might be a full deciſion and determination of them, but before theſe Delegates did meet, the Elector of <hi>Mentz</hi> did broach a new quarrell with the Elector Palatine, tending to a<g ref="char:EOLhyphen"/>bridge him of much of his right, and to make him inconſiderable to the Proteſtant party; But the King of <hi>Sweden</hi> his couſin (for he is a younger Brothers ſon of the houſe <hi>Palatine</hi>) and the <hi>Land<g ref="char:EOLhyphen"/>grave</hi> of <hi>Heſſen</hi> his Brother in law, did appear for him ſo far, that the Emperor &amp; the Elector of <hi>Mentz</hi> fearing a new breach on his behalfe, did leave him unmoleſted. Soon after the compo<g ref="char:EOLhyphen"/>ſure of this quarrell, the Committee of imperiall Deputies, met according to the appointment of the laſt <hi>Dyet</hi> at <hi>Ratisbon,</hi> and they have continued at <hi>Franckford,</hi> debating and diſputing one with another, concerning their reſpective right, in the ſeveral ca<g ref="char:EOLhyphen"/>ſes, which remained undetermined. This meeting of Deputies hath agitated matters in the years 1655—56—57. till theſe new affairs are come into conſideration, which the King of <hi>Sweden</hi> his war with <hi>Poland</hi> hath occaſioned: for from that time that he went into <hi>Poland</hi> and proſpered there, the Deputies although they did not diſſolve their meeting, yet did in a manner alter the courſe of their treating one with another, as looking much upon the event of that war, till the death of the late Em<g ref="char:EOLhyphen"/>perour, hath altered the Scene, and a <hi>Dyet</hi> for the election of a new Emperour hath been called.</p>
+            <p>The King of <hi>Swedens</hi> war with <hi>Poland,</hi> did alarm the Popiſh party in <hi>Germany,</hi> and the houſe of <hi>Austria</hi> extreamly; and did terrifie the States of the <hi>Low-Countries,</hi> leſt if he ſhould be maſter of the <hi>Baltick Sea,</hi> their Trade ſhould be thenceforward under his power, with whom they had no friendly correſpondence, by reaſon of ſome reciprocally conceived injuries, for which they could not truſt him. This moved thoſe of <hi>Holland</hi> who are the chief traders in thoſe Seas, to ſtirrup enemies againſt him, and openly to appear for, and correſpond with <hi>Dantzick</hi> to oppoſe him: and it is known to the Swediſh, that they have dealt un<g ref="char:EOLhyphen"/>derhand with the <hi>Moſcovite,</hi> with the <hi>Poliſh</hi> King, with the <hi>Au<g ref="char:EOLhyphen"/>ſtrians,</hi> and above board with the King of <hi>Denmark,</hi> to combine againſt him; by which means after that he had conquered <hi>Po<g ref="char:EOLhyphen"/>land,</hi> his forces were diſtracted, firſt to oppoſe the <hi>Moſcovite</hi> in
+<pb n="4" facs="tcp:48131:4"/>
+               <hi>Livonia,</hi> who beſieged <hi>Riga;</hi> and afterward to put himſelf in a defenſive poſture againſt the <hi>Auſtrians,</hi> who came to the aſſiſtance of the King of <hi>Poland;</hi> and laſtly, to retire from <hi>Poland</hi> into <hi>Germany,</hi> to oppoſe the <hi>Daniſh</hi> forces, who had invaded his Ter<g ref="char:EOLhyphen"/>ritories of <hi>Bremen.</hi> Being come into <hi>Germany</hi> upon this deſign, he did conquer from the King of <hi>Denmark</hi> the laſt Summer all <hi>Holſtein</hi> and <hi>Jutland,</hi> and although by theſe conqueſts he was able to live in his quarters in the Winter: yet his enemies being round about him on all hands, and he having neither money, nor convenient places to recruit his Army, it was expected, that in the Spring the Combination of his enemies who compaſſed him about, would have ſwallowed him up: but God was pleaſ<g ref="char:EOLhyphen"/>ed to appear for him, and direct him in a way to eſcape and over<g ref="char:EOLhyphen"/>come theſe difficulties: For in <hi>January</hi> laſt, he formed his de<g ref="char:EOLhyphen"/>ſign to aſſault the other Territories of the <hi>Daniſh</hi> King; namely the Iſlands which lye between <hi>Germany</hi> and the Continent of <hi>Sweden,</hi> and to that effect had prepared his men to march over into <hi>Fuenen,</hi> either by a bridge of Shipps if the Sea were not fro<g ref="char:EOLhyphen"/>zen ſo as to bear: or over the Ice, if it ſhould be ſtrong enough: having then notice gotten, that towards the latter end of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> the Ice did bear, he took of horſe and foot, not above 6 or 7 thouſand, and therewith did march over the Sea into <hi>Funen,</hi> where the <hi>Daniſh</hi> King had placed his chief forces to defend the place. And although ſome dangerous and dreadfull accidents did befal him in that his march over the Sea, yet he went on and fought the <hi>Daniſh</hi> forces more in number then he had with him, which on firm land ſtood in a readineſſe to receive him, and beat them, took the chief Commanders priſoners, and the ſpoil of the Iſland, which is one of the richeſt that belongs to that Kingdom. Ha<g ref="char:EOLhyphen"/>ving made himſelf Maſter of that Iſland, he went forward to the next Iſland, over the Sea, called <hi>Langland,</hi> where he found a bo<g ref="char:EOLhyphen"/>dy of 500 men to reſiſt him, but being charged, they were inſtant<g ref="char:EOLhyphen"/>ly defeated, ſo he went from thene to the next called <hi>Laland,</hi> and from thence to <hi>Falſter,</hi> and from <hi>Falſter</hi> to <hi>Zealand,</hi> the froſt ſtill continuing to make a bridge for him in all theſe marches. And from the time he came into <hi>Funen,</hi> till he entred <hi>Zealand,</hi> he ſpent onely five or fix days. In <hi>Zealand</hi> (where the King of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> was at <hi>Coppenhagen</hi>) M. <hi>Medows,</hi> the publick Miniſter of
+<pb n="5" facs="tcp:48131:4"/>the State, ſent from thence to reſide with the King of <hi>Denmark</hi>) came to him, and deſired him to admit the King of <hi>Denmark</hi> to a Treatie, this he condeſcended unto, and by the interpoſition of M <hi>Medows</hi> and of the French <hi>Ambaſſadour</hi> (for he would not admit the Hollands <hi>Ambaſſadour</hi> to be a Mediator) the peace was concluded about the 20 of <hi>February,</hi> after twelve days treaty. The conditions are, that he reſtoreth to the King of <hi>Denmark</hi> all what he had taken from him in <hi>Germany,</hi> namely <hi>Holſtein,</hi> and <hi>Jutland,</hi> and the Iſlands of <hi>Fuenen, Langland, Laland, Falſter</hi> and <hi>Zealand;</hi> and in lieu thereof the King of <hi>Denmark</hi> quitts unto him all his rights in the Provinces of <hi>Haland</hi> and <hi>Schonen,</hi> and of <hi>Blieken,</hi> which are the Continent of <hi>Sweden,</hi> on the North ſide of the Sound; and doth moreover ſurrender unto him the bland of <hi>Bornholm,</hi> and the Lordſhips of <hi>Bahuſen,</hi> and of <hi>Drunthen</hi> in <hi>Norway,</hi> which lye moſt convenient to cauſe the Trade of <hi>Swe<g ref="char:EOLhyphen"/>den</hi> to flouriſh. Some other conditions there are, but leſſe conſide<g ref="char:EOLhyphen"/>rable. The peace being concluded and ratified by both Kings, the King of <hi>Denmark</hi> feaſted the King of <hi>Sweden</hi> for certain days, and at ſeverall times both Kings were together alone, for the ſpace of two or three hours at a time, whereby it is conceived that they have contracted a nearer and ſtricter alliance together, then the Publick Treatie can mention. This being done, the King of <hi>Sweden</hi> went into his own Country; and hath convocated the States of his Kingdom at <hi>Gottenborg,</hi> to diſpoſe of his affairs with their advice, and to take up further reſolutions in time to come.</p>
+            <p>This unexpected and miraculous ſucceſſe of the <hi>Swediſh</hi> Kings enterpriſe, hath diſappointed all the Counſels and plots of his adverſaries againſt him, for which he is obliged to none but un<g ref="char:EOLhyphen"/>to God alone: and from hence his friends have juſt cauſe to ga<g ref="char:EOLhyphen"/>ther, that God hath raiſed him out of his ſtraits, and redoubled his ſtrength to make further uſe of him towards the advance<g ref="char:EOLhyphen"/>ment of the common cauſe of Proteſtants, in whoſe behalf he concluded the peace at <hi>Munſter,</hi> and which he thinks himſelf in conſcience and honour obliged to ſee maintained for the Prote<g ref="char:EOLhyphen"/>ſtant intereſt; <hi>tanquam altera pars paciſcens,</hi> as in a letter of his to the Emperour, he did expreſſe himſelf. So that it ſeems the Pro<g ref="char:EOLhyphen"/>teſtant cauſe in <hi>Germany</hi> will find in him a Protector of ſo much
+<pb n="6" facs="tcp:48131:5" rendition="simple:additions"/>courage and reſolution, and conduct, as any that could be ex<g ref="char:EOLhyphen"/>pected or deſired: And it is known to all that know him, that he is earneſtly bent to take away the differences, and advance the reconcilement of Proteſtants within themſelves: and that he makes no difference between <hi>Lutherans</hi> (as they are called) and <hi>Calviniſts,</hi> but makes uſe of both a like, according to their a<g ref="char:EOLhyphen"/>bilities, as be findes them fitted for imployment in forreign af<g ref="char:EOLhyphen"/>fairs: for within the Kingdom of <hi>Sweden,</hi> no forreigners, and none but <hi>Lutherans,</hi> are to be admitted to the civill charges of truſt; others are imployed in military charges, both there and elſwhere, according to their deſerts.</p>
+            <p>What his preſent poſture doth work upon the minds of his enemies, is not difficult to be ſeen: and what this advantage which he hath gotten againſt his ſecret and open adverſaries, may produce at this juncture of time in the Empire, time will ſhew: In the mean time, it is to be wiſhed, that all Proteſtants would unite to maintain with one conſent a true Goſpel-Intereſt; in the proſecution of which, they may confidently expect a ſingu<g ref="char:EOLhyphen"/>lar bleſſing from God, in all other enterpriſes, and without which there is no hope, that any thing will proſper, which will be un<g ref="char:EOLhyphen"/>dertaken: And whoſoever doth pretend to the profeſſion of the Goſpel, and doth not in his place what he can, towards the the healing of the breaches of Proteſtants by ſpirituall means in a Goſpel-way; let his pretences be what they will, he will be found at the end, but an unprofitable ſervant to his Maſter, and one that hath deſerted his cauſe, when it ſtood moſt in need of aſſiſtance, &amp; when it was moſt ſeaſonable to give it, which is now at this juncture of time, if ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
